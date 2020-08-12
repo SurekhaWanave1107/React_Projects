@@ -1,0 +1,8 @@
+npm init
+npm install express mongoose cors dotenv nodemon
+
+expres:- lightweight and fast webframework for nodejs
+mongoose:- it makes interacting with mongodb through nodejs makes simpler
+cors:- Cross version resource sharing, with this we can easily access something outside of server into our server
+dotenv:- which loads env variables from .env file into process.env, this makes development simpler.
+nodemon:- nodemon is a utility, that will monitor for any chages in you source code and automatically restart your server at the point when chages made in source code
